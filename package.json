@@ -1,0 +1,23 @@
+{
+  "name": "crud-rest",
+  "version": "1.0.5",
+  "description": "CRUD REST resource/entity composer.",
+  "main": "crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/internet3/crud-rest.git"
+  },
+  "keywords": [
+    "rest",
+    "crud"
+  ],
+  "author": "Valeriano Cossu <vcossu@yandex.ru> (https://github.com/internet3)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/internet3/crud-rest/issues"
+  },
+  "homepage": "https://github.com/internet3/crud-rest#readme"
+}
